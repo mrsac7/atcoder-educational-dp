@@ -28,10 +28,6 @@ int query(int a, int b) {
 
 signed main(){
     cin.tie(0)->sync_with_stdio(0);
-    #ifdef LOCAL
-    freopen("input.txt", "r" , stdin);
-    freopen("output.txt", "w", stdout);
-    #endif
     
     int n; cin >> n;
     N = 1LL<< (int) ceil(log2(n));
