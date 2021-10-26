@@ -1,5 +1,5 @@
 # atcoder-educational-dp
-Accepted solutions to the Atcoder Educational DP Contest
+> Accepted solutions to the Atcoder Educational DP Contest
 
 1. [A - Frog 1](src/A%20-%20Frog%201.cpp)
 1. [B - Frog 2](src/B%20-%20Frog%202.cpp)
