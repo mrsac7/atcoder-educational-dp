@@ -15,7 +15,7 @@ Accepted solutions to the Atcoder Educational DP Contest
 1. [M - Candies](src/M%20-%20Candies.cpp)
 1. [N - Slimes](src/N%20-%20Slimes.cpp)
 1. [O - Matching](src/O%20-%20Matching.cpp)
-1. [P - Independent Set]((src/P%20-%20Independent%20Set.cpp)
+1. [P - Independent Set](src/P%20-%20Independent%20Set.cpp)
 1. [Q - Flowers](src/Q%20-%20Flowers.cpp)
 1. [R - Walk](src/R%20-%20Walk.cpp)
 1. [S - Digit Sum](src/S%20-%20Digit%20Sum.cpp)
