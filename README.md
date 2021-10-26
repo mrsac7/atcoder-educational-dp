@@ -3,6 +3,7 @@
 
 1. [A - Frog 1](src/A%20-%20Frog%201.cpp)
 1. [B - Frog 2](src/B%20-%20Frog%202.cpp)
+1. [C - Vacation](src/C%20-%20Vacation.cpp)
 1. [D - Knapsack 1](src/C%20-%20Knapsack%201.cpp)
 1. [E - Knapsack 2](src/D%20-%20Knapsack%202.cpp)
 1. [F - LCS](src/F%20-%20LCS.cpp)
