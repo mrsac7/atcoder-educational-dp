@@ -24,6 +24,6 @@
 1. [U - Grouping](src/U%20-%20Grouping.cpp)
 1. [V - Subtree](src/V%20-%20Subtree.cpp)
 1. W - Intervals
-1. X - Tower
-1. Y - Grid 2
+1. [X - Tower](src/X%20-%20Tower.cpp)
+1. [Y - Grid 2](src/Y%20-%20Grid%202.cpp)
 1. Z - Frog 3
