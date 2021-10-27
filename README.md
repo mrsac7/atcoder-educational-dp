@@ -21,7 +21,7 @@
 1. [R - Walk](src/R%20-%20Walk.cpp)
 1. [S - Digit Sum](src/S%20-%20Digit%20Sum.cpp)
 1. [T - Permutation](src/T%20-%20Permutation.cpp)
-1. U - Grouping
+1. [U - Grouping](src/U%20-%20Grouping.cpp)
 1. V - Subtree
 1. W - Intervals
 1. X - Tower
